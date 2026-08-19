@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **ankitsuryawanshi@gmail.com** For Collaboration/Project or
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitsuryawanshijnct?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@aceentertainmentpvt?si=_RaPFTr0ZkWSuBl6) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitsuryawanshi098@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitsuryawanshijnct?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@aceentertainmentpvt?si=_RaPFTr0ZkWSuBl6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitsuryawanshi098@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
